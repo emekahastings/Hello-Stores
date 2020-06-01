@@ -1,2 +1,3 @@
 # Hello-Stores
 This is a website that shows  all the wonderful goods and service provided by the team
+We are committed to serving you and giving you better goods....
